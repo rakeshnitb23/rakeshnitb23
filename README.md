@@ -8,7 +8,7 @@ AI backend engineer building agent guardrails: what they may do, what they cost,
 
 - [**toolism**](https://github.com/rakeshnitb23/toolism): toolslim measures and cuts the tokens spent re-sending tool schemas, and tests that the slimmed schema accepts the same calls. Safe rules cut tool-definition tokens 37.4% across 159 tools from 13 MCP servers (73% on Notion).
 
-- [**groundeddocs**](https://github.com/rakeshnitb23/groundeddocs): document Q&A that abstains unless every citation matches a chunk retrieved for that question. An answer left with no valid citation is returned as an abstain. [Citations get checked, not trusted](https://www.lazymonk.si/writing/citations-get-checked-not-trusted).
+- [**groundeddocs**](https://github.com/rakeshnitb23/groundeddocs): document Q&A that abstains unless every citation matches a chunk retrieved for that question. An answer left with no valid citation is returned as an abstain.
 
 - [**fuel-route-planner**](https://github.com/rakeshnitb23/fuel-route-planner): Django and PostGIS API that picks where to buy fuel on a US road trip. New York to Los Angeles on the [live demo](https://fuel.lazymonk.si): 2,800.6 miles, 17 stops, $846.76.
 
