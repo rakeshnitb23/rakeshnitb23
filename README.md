@@ -18,7 +18,7 @@ AI backend engineer building agent guardrails: what they may do, what they cost,
 - [Abstention is the default path](https://portfolio-sage-gamma-15.vercel.app/writing/abstention-is-the-default-path) · Feb 2026
 - [Idempotency at the schema](https://portfolio-sage-gamma-15.vercel.app/writing/idempotency-at-the-schema) · Aug 2025
 
-All posts: [portfolio-sage-gamma-15.vercel.app/writing](https://portfolio-sage-gamma-15.vercel.app/writing)
+All posts: [lazymonk.si](https://www.lazymonk.si)
 
 **Now:** Opfence's catalog and proxy are in progress. It does not guard a production account yet.
 
