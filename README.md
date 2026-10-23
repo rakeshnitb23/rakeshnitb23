@@ -12,11 +12,12 @@ AI backend engineer building agent guardrails: what they may do, what they cost,
 
 - [**fuel-route-planner**](https://github.com/rakeshnitb23/fuel-route-planner): Django and PostGIS API that picks where to buy fuel on a US road trip. New York to Los Angeles on the [live demo](https://fuel.lazymonk.si): 2,800.6 miles, 17 stops, $846.76.
 
-## Writing
+## Technical Blogs
 
-- [Citations get checked, not trusted](https://portfolio-sage-gamma-15.vercel.app/writing/citations-get-checked-not-trusted) · Feb 2026
-- [Abstention is the default path](https://portfolio-sage-gamma-15.vercel.app/writing/abstention-is-the-default-path) · Feb 2026
-- [Idempotency at the schema](https://portfolio-sage-gamma-15.vercel.app/writing/idempotency-at-the-schema) · Aug 2025
+- [Your AI Agent Just Showed Customer A's Orders to Customer B](https://www.linkedin.com/pulse/your-ai-agent-just-showed-customer-orders-b-rakesh-singh--bhmfc/) · 10 Oct 2026
+- [Your AI Agent Just Charged the Customer Twice. Here Is Why.](https://www.linkedin.com/pulse/your-ai-agent-just-charged-customer-twice-here-why-rakesh-singh--sipbc/) · 09 Oct 2026
+- [You Probably Have a Context Problem, Not an Agent-Count Problem](https://www.linkedin.com/pulse/you-probably-have-context-problem-agent-count-rakesh-singh--hvhyc/) · 08 Oct 2026
+- [Rate Limiting an Agentic System with Redis: Count Tokens, Not Requests](https://www.linkedin.com/pulse/rate-limiting-agentic-system-redis-count-tokens-requests-singh--iuzwc/) · 07 Oct 2026
 
 All posts: [https://www.lazymonk.si](https://www.lazymonk.si)
 
