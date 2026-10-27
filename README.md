@@ -6,7 +6,7 @@ AI backend engineer building agent guardrails: what they may do, what they cost,
 
 - [**toolism**](https://github.com/rakeshnitb23/toolism): toolslim measures and cuts the tokens spent re-sending tool schemas, and tests that the slimmed schema accepts the same calls. Safe rules cut tool-definition tokens 37.4% across 159 tools from 13 MCP servers (73% on Notion).
 
-- [**opfence**](https://github.com/sudheer215s/opfence): checks each request a coding agent makes, then lets it run, asks you, or blocks it. The catalog has 7,057 rules, including 29 MCP servers, each replayed from a recorded request. Early development, not ready to protect a production account. How a request gets its decision: [architecture](https://github.com/sudheer215s/opfence/blob/main/docs/ARCHITECTURE.md).
+- [**opfence**](https://github.com/sudheer215s/opfence): checks each request a coding agent makes, then lets it run, asks you, or blocks it. The catalog has 7,057 rules, including 29 MCP servers, each replayed from a recorded request. Early development, not ready to protect a production account. How a request gets its decision: [architecture](https://github.com/sudheer215s/opfence/blob/master/docs/ARCHITECTURE.md).
 
 - [**groundeddocs**](https://github.com/rakeshnitb23/groundeddocs): document Q&A that abstains unless every citation matches a chunk retrieved for that question. An answer left with no valid citation is returned as an abstain.
 
